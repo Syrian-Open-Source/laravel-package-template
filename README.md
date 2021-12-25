@@ -42,5 +42,5 @@ if we do not fix it within a short period of time please open a new issue descri
 
 Credits
 -------
-[your email](your email)
-[All contributors](https://github.com/syrian-open-source/laravel-package-template/graphs/contributors)
+* [your email](https://github.com/syrian-open-source/laravel-package-template/graphs/contributors)
+* [All contributors](https://github.com/syrian-open-source/laravel-package-template/graphs/contributors)
