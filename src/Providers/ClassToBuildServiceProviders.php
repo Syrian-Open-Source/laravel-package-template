@@ -1,8 +1,6 @@
 <?php
 
-
 namespace SOS\LaravelPackageTemplate\Providers;
-
 
 use Illuminate\Support\ServiceProvider;
 use SOS\LaravelPackageTemplate\Classes\ClassToBuild;

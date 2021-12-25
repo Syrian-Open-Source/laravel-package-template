@@ -1,8 +1,6 @@
 <?php
 
-
 namespace SOS\LaravelPackageTemplate\Classes;
-
 
 /**
  * Class ClassToBuild
@@ -12,7 +10,6 @@ namespace SOS\LaravelPackageTemplate\Classes;
  */
 class ClassToBuild
 {
-
     /**
      * description
      *
@@ -46,6 +43,4 @@ class ClassToBuild
 
         return $this;
     }
-
-
 }

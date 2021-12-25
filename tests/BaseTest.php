@@ -6,7 +6,6 @@ use Orchestra\Testbench\TestCase as OrchestraTestCase;
 
 class BaseTest extends OrchestraTestCase
 {
-
     /**
      * description
      *
@@ -14,7 +13,6 @@ class BaseTest extends OrchestraTestCase
      */
     public function test_base_test()
     {
-
         $this->assertTrue(true);
     }
 }

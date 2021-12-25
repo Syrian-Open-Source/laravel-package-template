@@ -1,14 +1,11 @@
 <?php
 
-
 namespace SOS\LaravelPackageTemplate\Commands;
-
 
 use Illuminate\Console\Command;
 
 class InstallCommand extends Command
 {
-
     public $packageLink = '';
 
     /**

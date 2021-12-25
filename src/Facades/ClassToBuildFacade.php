@@ -1,8 +1,6 @@
 <?php
 
-
 namespace SOS\LaravelPackageTemplate\Facades;
-
 
 use Illuminate\Support\Facades\Facade;
 use SOS\LaravelPackageTemplate\Classes\ClassToBuild;
