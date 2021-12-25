@@ -4,9 +4,14 @@ Design a simple and expressive logo with the same model you see above,
 the logo design helps to unify the visual identity and further develop the optimal packages to increase the quality of the software we develop
 
 #NOTES:
-* You should replace all your dependencies into your custom names and files.
-* To use this template, please click on buton above "Use this template".  
-
+* You should replace all your dependencies into your custom names and files including:
+  * vendor namespace.
+  * composer information.
+  * logo
+  * credit and contributors links
+  * security email
+* To use this template, please click on button above "Use this template".  
+* Delete this section after you have finished developing your package
 # Package Name
 Your package description,Try to be briefly describing the features of the package,
 which versions of Laravel and php it require,
@@ -40,7 +45,7 @@ Please see the [CHANGELOG](https://github.com/syrian-open-source/laravel-package
 
 Security
 --------
-If you discover any security related issues, please email them first to <your email>, 
+If you discover any security related issues, please email them first to "your email", 
 if we do not fix it within a short period of time please open a new issue describing your problem. 
 
 Credits
