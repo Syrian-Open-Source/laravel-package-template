@@ -20,12 +20,18 @@
     "autoload" : {
         "psr-4": {
             "SOS\\LaravelPackageTemplate\\" : "src",
+            "friendsofphp/php-cs-fixer": "^3.0"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
             "SOS\\LaravelPackageTemplate\\Tests\\": "src/tests"
         }
     },
     "scripts": {
         "test": "vendor/bin/phpunit",
-        "test-coverage": "phpunit --coverage-html coverage"
+        "test-coverage": "phpunit --coverage-html coverage",
+        "format": "vendor/bin/php-cs-fixer fix --allow-risky=yes"
     },
     "extra" : {
         "laravel" : {
