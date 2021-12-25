@@ -3,8 +3,11 @@
 Design a simple and expressive logo with the same model you see above,
 the logo design helps to unify the visual identity and further develop the optimal packages to increase the quality of the software we develop
 
-# Package Name
+#NOTES:
+* You should replace all your dependencies into your custom names and files.
+* To use this template, please click on buton above "Use this template".  
 
+# Package Name
 Your package description,Try to be briefly describing the features of the package,
 which versions of Laravel and php it require,
 and if there are external resources for learning or explanation
@@ -13,7 +16,7 @@ and if there are external resources for learning or explanation
 The first step is using composer to install the package and automatically update your composer.json file, you can do this by running:
 
 ```shell
-composer require syrian-open-source/laravel-package-template
+composer require vendor_name/package_name
 ```
 ##### 2 - Copy the package providers to your local config with the publish command, this will publish the config:
 
