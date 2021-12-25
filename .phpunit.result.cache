@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SOS\\MultiProcess\\Tests\\Feature\\CommandsTest::test_if_commands_run_successfully":4,"Warning":6},"times":{"SOS\\MultiProcess\\Tests\\Feature\\CommandsTest::test_if_commands_run_successfully":6.136,"Warning":0.012,"SOS\\MultiProcess\\Tests\\BaseTest::test_base_test":0.206,"SOS\\MultiProcess\\Tests\\Feature\\CommandsTest::test_base_test":0.038}}

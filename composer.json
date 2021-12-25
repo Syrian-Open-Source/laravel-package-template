@@ -1,0 +1,42 @@
+{
+    "name": "syrian-open-source/laravel-package-template",
+    "description": "Package description",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "syrian open source"
+    ],
+    "authors": [
+        {
+            "name": "Karam Mustafa",
+            "email": "karam2mustafa@gmail.com",
+            "homepage": "https://github.com/karam-mustafa",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload" : {
+        "psr-4": {
+            "SOS\\LaravelPackageTemplate\\" : "src",
+            "SOS\\LaravelPackageTemplate\\Tests\\": "src/tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "phpunit --coverage-html coverage"
+    },
+    "extra" : {
+        "laravel" : {
+            "providers" : [
+                "SOS\\LaravelPackageTemplate\\Providers\\LaravelPackageTemplateServiceProviders"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require-dev": {
+        "orchestra/testbench": "^6.23"
+    }
+}
