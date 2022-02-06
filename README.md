@@ -1,17 +1,13 @@
 ![logo](assets/logo.png)
 
+#Add your package badge
+
+[![PHP Composer](https://github.com/Syrian-Open-Source/laravel-package-template/actions/workflows/php.yml/badge.svg)](https://github.com/karam-mustafa/laravel-multi-process/actions/workflows/php.yml)
+[![Run tests](https://github.com/Syrian-Open-Source/laravel-package-template/actions/workflows/tests.yml/badge.svg)](https://github.com/karam-mustafa/laravel-multi-process/actions/workflows/tests.yml)
+
 Design a simple and expressive logo with the same model you see above,
 the logo design helps to unify the visual identity and further develop the optimal packages to increase the quality of the software we develop
 
-#NOTES:
-* You should replace all your dependencies into your custom names and files including:
-  * vendor namespace.
-  * composer information.
-  * logo
-  * credit and contributors links
-  * security email
-* To use this template, please click on button above "Use this template".  
-* Delete this section after you have finished developing your package
 # Package Name
 Your package description,Try to be briefly describing the features of the package,
 which versions of Laravel and php it require,
@@ -52,3 +48,13 @@ Credits
 -------
 * [your email](https://github.com/syrian-open-source/laravel-package-template/graphs/contributors)
 * [All contributors](https://github.com/syrian-open-source/laravel-package-template/graphs/contributors)
+
+#NOTES:
+* You should replace all your dependencies into your custom names and files including:
+  * vendor namespace.
+  * composer information.
+  * logo
+  * credit and contributors links
+  * security email
+* To use this template, please click on button above "Use this template".  
+* Delete this section after you have finished developing your package
