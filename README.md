@@ -1,6 +1,6 @@
 ![logo](assets/logo.png)
 
-#Add your package badge
+#Add your package badges
 
 [![PHP Composer](https://github.com/Syrian-Open-Source/laravel-package-template/actions/workflows/php.yml/badge.svg)](https://github.com/syrian-open-source/laravel-multi-process/actions/workflows/php.yml)
 [![Run tests](https://github.com/Syrian-Open-Source/laravel-package-template/actions/workflows/tests.yml/badge.svg)](https://github.com/syrian-open-source/laravel-multi-process/actions/workflows/tests.yml)
