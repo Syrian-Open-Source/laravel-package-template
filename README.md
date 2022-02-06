@@ -2,8 +2,8 @@
 
 #Add your package badge
 
-[![PHP Composer](https://github.com/Syrian-Open-Source/laravel-package-template/actions/workflows/php.yml/badge.svg)](https://github.com/karam-mustafa/laravel-multi-process/actions/workflows/php.yml)
-[![Run tests](https://github.com/Syrian-Open-Source/laravel-package-template/actions/workflows/tests.yml/badge.svg)](https://github.com/karam-mustafa/laravel-multi-process/actions/workflows/tests.yml)
+[![PHP Composer](https://github.com/Syrian-Open-Source/laravel-package-template/actions/workflows/php.yml/badge.svg)](https://github.com/syrian-open-source/laravel-multi-process/actions/workflows/php.yml)
+[![Run tests](https://github.com/Syrian-Open-Source/laravel-package-template/actions/workflows/tests.yml/badge.svg)](https://github.com/syrian-open-source/laravel-multi-process/actions/workflows/tests.yml)
 
 Design a simple and expressive logo with the same model you see above,
 the logo design helps to unify the visual identity and further develop the optimal packages to increase the quality of the software we develop
