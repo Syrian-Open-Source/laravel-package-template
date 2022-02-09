@@ -1,3 +1,7 @@
+## v1.4.0 - 2022-02-09
+
+- Add unit test example
+
 ## v1.3.0 - 2022-02-03
 
 - First releases
